@@ -11,4 +11,8 @@ public class TwoActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_two);
     }
+
+    public void up(){
+
+    }
 }
